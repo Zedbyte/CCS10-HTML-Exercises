@@ -1,0 +1,14 @@
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+img {
+	transition: all 0.8s linear;
+}
+
+img:hover {
+	transform: scale(1.1);
+	transform: translate(-320px, -320px);
+}
