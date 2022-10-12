@@ -1,23 +1,26 @@
 h1 {
-    color: #009;
-    font-size: 1em;
+    color: blue;
+    font-size: 2em;
     margin-bottom: .3em;
     text-align: center;
     text-decoration: underline;
 }
 
 table {
-    width: 290px;
+    width: 700px;
+    height: 300px;
     margin-left: auto;
     margin-right: auto;
 }
 
 th {
     padding: .2em;
+    font-size: 1.5em;
 }
 
 td {
-    background-color: #ffc;
+    background-color: #ccff00;
+    font-size: 1.5em;
     border: 1px solid #900;
     padding-left: .5em;
     padding-right: .5em;
